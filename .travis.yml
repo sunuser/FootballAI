@@ -10,4 +10,4 @@ android:
     - build-tools-23.0.2
     - android-23
     
-script: ./gradlew connectedCheck --debug
+script: ./gradlew connectedCheck
